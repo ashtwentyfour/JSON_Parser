@@ -1,0 +1,6 @@
+{"menu": 
+  "id", "state": false,
+   "no": 400,
+   "array": ["Ashwin" , "Mumbai" , "Bangalore"]
+   , "bools": [true , false , true], "numbers": [300 , 89.7 , 78000] , "subjson":{"place": "Mumbai"},
+  "array_of_jsons":[{"jsona":"json"}, {"jsonb":"jsonb"}], "Null": null , "test": "-ve"}
