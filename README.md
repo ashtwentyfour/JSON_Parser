@@ -1,5 +1,4 @@
-
-JSON Parser
+# JSON Parser
 ===============
 
 *Takes a .json file as the input and returns a map of all the key-value pairs*
@@ -24,3 +23,12 @@ JSON Parser
 - function returns a map of type HashMap<String , Object> 
 
 *sample .json files provides*
+
+**BUILD A DOCKER IMAGE USING**
+
+- run 'docker build .'
+- the current image uses the 'sample_json.json' file from the 'test_cases' folder
+
+**RUN USING docker-compose**
+
+- run 'docker-compose up'

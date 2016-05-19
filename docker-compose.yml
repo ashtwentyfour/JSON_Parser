@@ -1,0 +1,5 @@
+version: '2'
+services:
+   json_parser:
+     image: ashtwentyfour/json_parser:latest
+     container_name: JSON_parser
